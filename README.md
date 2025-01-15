@@ -16,5 +16,4 @@ Container is a package which is a combination of Application, libraries, system 
 `Container = Application + Libraries + System Dependencies`
 
 ## Life cycle of a container
-![docker-life-cycle](https://github.com/user-attachments/assets/b8bfe741-fc13-4489-8c70-ebf924defe42)
-
+![docker-life-cycle (1)](https://github.com/user-attachments/assets/9a21c65e-b182-4178-bc4a-8b6683e416ec)
